@@ -3,3 +3,4 @@ Getting Started section of General level. [https://usaco.guide/general/using-thi
 
 ## Problem Links
 - Basketball One-on-One - [https://open.kattis.com/problems/basketballoneonone?tab=metadata](https://open.kattis.com/problems/basketballoneonone?tab=metadata)
+- Weird Algorithm - [https://cses.fi/problemset/stats/1068/](https://cses.fi/problemset/stats/1068/)
