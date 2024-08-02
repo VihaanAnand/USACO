@@ -14,4 +14,8 @@ Getting Started section of General level. [https://usaco.guide/general/using-thi
 - Two Sets - [https://cses.fi/problemset/stats/1092/](https://cses.fi/problemset/stats/1092/) -->
 - Bit Strings - [https://cses.fi/problemset/stats/1617/](https://cses.fi/problemset/stats/1617/)
 - Trailing Zeroes - [https://cses.fi/problemset/stats/1618/](https://cses.fi/problemset/stats/1618/)
-<!-- - Coin Piles - [https://cses.fi/problemset/stats/1754/](https://cses.fi/problemset/stats/1754/) -->
+<!-- - Coin Piles - [https://cses.fi/problemset/stats/1754/](https://cses.fi/problemset/stats/1754/)
+- Teleportation - [https://www.usaco.org/index.php?page=viewproblem2&cpid=807](https://www.usaco.org/index.php?page=viewproblem2&cpid=807) -->
+- Watermelon - [https://codeforces.com/problemset/problem/4/A](https://codeforces.com/problemset/problem/4/A)
+- Team - [https://codeforces.com/problemset/problem/231/A](https://codeforces.com/problemset/problem/231/A)
+- Soldier and Bananas - [https://codeforces.com/problemset/problem/546/A](https://codeforces.com/problemset/problem/546/A)
