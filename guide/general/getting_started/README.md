@@ -10,8 +10,8 @@ Getting Started section of General level. [https://usaco.guide/general/using-thi
 - Increasing Array - [https://cses.fi/problemset/stats/1094/](https://cses.fi/problemset/stats/1094/)
 - Permutations - [https://cses.fi/problemset/stats/1070/](https://cses.fi/problemset/stats/1070/)
 - Number Spiral - [https://cses.fi/problemset/stats/1071/](https://cses.fi/problemset/stats/1071/)
-- Two Knights - [https://cses.fi/problemset/stats/1072/](https://cses.fi/problemset/stats/1072/)
-- Two Sets - [https://cses.fi/problemset/stats/1092/](https://cses.fi/problemset/stats/1092/)
+<!-- - Two Knights - [https://cses.fi/problemset/stats/1072/](https://cses.fi/problemset/stats/1072/)
+- Two Sets - [https://cses.fi/problemset/stats/1092/](https://cses.fi/problemset/stats/1092/) -->
 - Bit Strings - [https://cses.fi/problemset/stats/1617/](https://cses.fi/problemset/stats/1617/)
-- Trailing Zeros - [https://cses.fi/problemset/stats/1618/](https://cses.fi/problemset/stats/1618/)
-- Coin Piles - [https://cses.fi/problemset/stats/1754/](https://cses.fi/problemset/stats/1754/)
+- Trailing Zeroes - [https://cses.fi/problemset/stats/1618/](https://cses.fi/problemset/stats/1618/)
+<!-- - Coin Piles - [https://cses.fi/problemset/stats/1754/](https://cses.fi/problemset/stats/1754/) -->
