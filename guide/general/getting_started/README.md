@@ -19,3 +19,7 @@ Getting Started section of General level. [https://usaco.guide/general/using-thi
 - Watermelon - [https://codeforces.com/problemset/problem/4/A](https://codeforces.com/problemset/problem/4/A)
 - Team - [https://codeforces.com/problemset/problem/231/A](https://codeforces.com/problemset/problem/231/A)
 - Soldier and Bananas - [https://codeforces.com/problemset/problem/546/A](https://codeforces.com/problemset/problem/546/A)
+- Promotion Counting - [https://www.usaco.org/index.php?page=viewproblem2&cpid=591](https://www.usaco.org/index.php?page=viewproblem2&cpid=591)
+- Do You Know Your ABCs? - [https://www.usaco.org/index.php?page=viewproblem2&cpid=1059](https://www.usaco.org/index.php?page=viewproblem2&cpid=1059)
+- Word Processor - [https://www.usaco.org/index.php?page=viewproblem2&cpid=987](https://www.usaco.org/index.php?page=viewproblem2&cpid=987)
+- Bucket Brigade - [https://www.usaco.org/index.php?page=viewproblem2&cpid=939](https://www.usaco.org/index.php?page=viewproblem2&cpid=939)
