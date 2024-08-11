@@ -17,7 +17,8 @@
             "intelliSenseMode": "macos-clang-arm64",
             "compilerPath": "/usr/bin/clang++",
             "compilerArgs": [
-                "-stdlib++-isystem", "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1"
+                "-stdlib++-isystem",
+                "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1"
             ]
         }
     ],
