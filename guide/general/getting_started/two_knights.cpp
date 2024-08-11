@@ -8,5 +8,4 @@ int main() {
                 long long attack = 4 * (k - 1) * (k - 2);
                 cout << total - attack << "\n";
         }
-        return 0;
 }
