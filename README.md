@@ -1,2 +1,2 @@
 # USACO
-USACO solutions. [https://usaco.org/](https://usaco.org/)
+USACO solutions [https://usaco.org/](https://usaco.org/), USACO Guide solutions [https://usaco.guide/](https://usaco.guide/), USACO Training solutions [https://usaco.training/](https://usaco.training/), Codeforces solutions [https://codeforces.com/](https://codeforces.com/).
